@@ -8,7 +8,7 @@ Made with ❤️ by Thanapong Angkha
 
 For `telnet` use `telnet localhost 8080`
 
-For `telnet` use `nc localhost 8080`
+For `netcat` use `nc localhost 8080`
 
 | Command                     | Description                                   |
 | :---                        | :----:                                     |
